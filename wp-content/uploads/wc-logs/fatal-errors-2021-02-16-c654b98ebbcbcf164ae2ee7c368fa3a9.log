@@ -1,0 +1,58 @@
+2021-02-16T12:27:49+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:543
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 543
+
+2021-02-16T12:30:56+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:543
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 543
+
+2021-02-16T13:43:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_post_by_category(), 1 passed in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 593 and exactly 2 expected in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:562
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php(593): get_post_by_category('Drinks')
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-p in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 562
+
+2021-02-16T15:12:26+00:00 CRITICAL Uncaught Error: Call to undefined function the_slug() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:567
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php(654): get_post_by_category('Drinks')
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#5 D:\xampp\htdocs\foodyyums.co in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 567
+
+2021-02-16T15:29:52+00:00 CRITICAL Cannot redeclare slug() (previously declared in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:569) in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 569
+
+2021-02-16T15:30:41+00:00 CRITICAL Cannot redeclare the_slug() (previously declared in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:569) in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 569
+
+2021-02-16T15:31:31+00:00 CRITICAL Uncaught Error: Call to undefined function the_slug() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:575
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php(627): get_post_by_category('Drinks')
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#5 D:\xampp\htdocs\foodyyums.co in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 575
+
+2021-02-16T15:32:00+00:00 CRITICAL Uncaught Error: Call to undefined function the_slug() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:575
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php(627): get_post_by_category('Drinks')
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#5 D:\xampp\htdocs\foodyyums.co in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 575
+
+2021-02-16T15:48:15+00:00 CRITICAL syntax error, unexpected 'WILL' (T_STRING) in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 582
+

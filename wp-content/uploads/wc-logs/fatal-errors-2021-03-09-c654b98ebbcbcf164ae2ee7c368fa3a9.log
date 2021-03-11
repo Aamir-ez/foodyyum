@@ -1,0 +1,27 @@
+2021-03-09T13:10:50+00:00 CRITICAL Uncaught Error: Call to undefined function wcmenu_item_price() in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php:1491
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): EZ_get_categories_with_menu_items('')
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_EZ_get_...')
+#4 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php on line 1491
+
+2021-03-09T13:11:17+00:00 CRITICAL Uncaught Error: Call to undefined function wcmenu_item_price() in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php:1491
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): EZ_get_categories_with_menu_items('')
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_EZ_get_...')
+#4 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php on line 1491
+
+2021-03-09T13:11:56+00:00 CRITICAL Uncaught Error: Call to undefined function wcmenu_item_price() in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php:1491
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): EZ_get_categories_with_menu_items('')
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_EZ_get_...')
+#4 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\functions.php on line 1491
+

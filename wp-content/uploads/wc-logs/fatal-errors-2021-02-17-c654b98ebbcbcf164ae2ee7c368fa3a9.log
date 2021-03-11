@@ -1,0 +1,1359 @@
+2021-02-17T07:14:33+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Query as array in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:568
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php(935): get_post_by_category('Drinks')
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#5 D:\xampp\htdocs\foodyy in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 568
+
+2021-02-17T07:20:59+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Query as array in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:568
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php(935): get_post_by_category('Drinks')
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#5 D:\xampp\htdocs\foodyy in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 568
+
+2021-02-17T09:06:24+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:600
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 600
+
+2021-02-17T09:08:21+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:601
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 601
+
+2021-02-17T09:10:50+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:601
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 601
+
+2021-02-17T09:14:20+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:603
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 603
+
+2021-02-17T09:14:32+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:603
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 603
+
+2021-02-17T09:17:43+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:605
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 605
+
+2021-02-17T09:19:19+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:605
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 605
+
+2021-02-17T09:22:29+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:605
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 605
+
+2021-02-17T09:22:40+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:605
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 605
+
+2021-02-17T09:23:31+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:605
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 605
+
+2021-02-17T09:25:36+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:605
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 605
+
+2021-02-17T09:26:01+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:605
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 605
+
+2021-02-17T09:27:45+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:605
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 605
+
+2021-02-17T09:28:46+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:605
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 605
+
+2021-02-17T09:33:36+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:605
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 605
+
+2021-02-17T09:37:58+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:605
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 605
+
+2021-02-17T09:38:29+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:605
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 605
+
+2021-02-17T09:39:42+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:605
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 605
+
+2021-02-17T09:40:50+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:605
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 605
+
+2021-02-17T09:42:19+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:605
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 605
+
+2021-02-17T09:43:15+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:605
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 605
+
+2021-02-17T09:44:45+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:605
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 605
+
+2021-02-17T09:45:13+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:605
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 605
+
+2021-02-17T09:46:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:611
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 611
+
+2021-02-17T09:46:38+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:611
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 611
+
+2021-02-17T09:46:47+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:611
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 611
+
+2021-02-17T09:50:30+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:705
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 705
+
+2021-02-17T09:51:44+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:614
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 614
+
+2021-02-17T09:51:55+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:614
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 614
+
+2021-02-17T09:52:33+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:614
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 614
+
+2021-02-17T09:54:32+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:705
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 705
+
+2021-02-17T09:56:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:626
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 626
+
+2021-02-17T09:57:24+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:624
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 624
+
+2021-02-17T10:00:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:626
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 626
+
+2021-02-17T10:01:38+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:626
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 626
+
+2021-02-17T10:02:52+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:626
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 626
+
+2021-02-17T10:06:47+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:626
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 626
+
+2021-02-17T10:07:49+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:615
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 615
+
+2021-02-17T10:09:04+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:615
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 615
+
+2021-02-17T10:18:59+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:620
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 620
+
+2021-02-17T10:20:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:620
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 620
+
+2021-02-17T10:22:35+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:622
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 622
+
+2021-02-17T10:23:08+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:622
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 622
+
+2021-02-17T10:23:33+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:622
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 622
+
+2021-02-17T10:25:46+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:622
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 622
+
+2021-02-17T10:26:10+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:622
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 622
+
+2021-02-17T10:27:45+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:622
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 622
+
+2021-02-17T10:29:17+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:622
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 622
+
+2021-02-17T10:30:34+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:622
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 622
+
+2021-02-17T10:30:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:622
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 622
+
+2021-02-17T10:31:50+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:622
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 622
+
+2021-02-17T10:32:25+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:622
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 622
+
+2021-02-17T10:33:45+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:622
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 622
+
+2021-02-17T10:34:41+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:622
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 622
+
+2021-02-17T10:35:31+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:622
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 622
+
+2021-02-17T10:46:23+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:629
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 629
+
+2021-02-17T10:47:52+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:629
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 629
+
+2021-02-17T10:48:33+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:629
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 629
+
+2021-02-17T10:49:26+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:629
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 629
+
+2021-02-17T10:49:54+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:629
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 629
+
+2021-02-17T10:52:06+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:629
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 629
+
+2021-02-17T10:55:42+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:631
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 631
+
+2021-02-17T10:56:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:631
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 631
+
+2021-02-17T10:57:54+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:632
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 632
+
+2021-02-17T11:00:52+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:632
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 632
+
+2021-02-17T11:03:39+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:648
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 648
+
+2021-02-17T11:04:41+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:649
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 649
+
+2021-02-17T11:05:28+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:649
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 649
+
+2021-02-17T11:08:38+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:649
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 649
+
+2021-02-17T11:10:25+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:649
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 649
+
+2021-02-17T11:10:44+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:649
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 649
+
+2021-02-17T11:11:40+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:652
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 652
+
+2021-02-17T11:13:59+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:652
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 652
+
+2021-02-17T11:15:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:652
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 652
+
+2021-02-17T11:17:41+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:655
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 655
+
+2021-02-17T11:18:26+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:658
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 658
+
+2021-02-17T11:19:37+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:658
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 658
+
+2021-02-17T11:24:00+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:658
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 658
+
+2021-02-17T11:25:59+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:658
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 658
+
+2021-02-17T11:26:41+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:658
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 658
+
+2021-02-17T11:27:54+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:658
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 658
+
+2021-02-17T11:28:09+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:658
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 658
+
+2021-02-17T11:28:20+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:658
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 658
+
+2021-02-17T11:28:59+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:658
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 658
+
+2021-02-17T11:40:23+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:658
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 658
+
+2021-02-17T11:43:57+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:658
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 658
+
+2021-02-17T11:44:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:658
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 658
+
+2021-02-17T11:44:38+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:658
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 658
+
+2021-02-17T11:46:48+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:658
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 658
+
+2021-02-17T11:48:08+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:658
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 658
+
+2021-02-17T11:50:07+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:660
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 660
+
+2021-02-17T11:50:41+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:660
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 660
+
+2021-02-17T11:52:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:650
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 650
+
+2021-02-17T11:53:38+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:650
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 650
+
+2021-02-17T11:55:46+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:650
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 650
+
+2021-02-17T11:56:47+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:654
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 654
+
+2021-02-17T11:57:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:654
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 654
+
+2021-02-17T11:58:28+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:663
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 663
+
+2021-02-17T11:59:10+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:663
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 663
+
+2021-02-17T12:42:37+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:663
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 663
+
+2021-02-17T12:43:50+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:663
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 663
+
+2021-02-17T12:44:46+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:663
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 663
+
+2021-02-17T12:46:22+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:663
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 663
+
+2021-02-17T12:49:27+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:663
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 663
+
+2021-02-17T12:50:07+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:663
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 663
+
+2021-02-17T12:50:55+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:664
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 664
+
+2021-02-17T12:51:58+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:664
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 664
+
+2021-02-17T12:52:47+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:664
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 664
+
+2021-02-17T12:54:26+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:664
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 664
+
+2021-02-17T12:54:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:664
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 664
+
+2021-02-17T12:56:09+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:664
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 664
+
+2021-02-17T13:03:04+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:664
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 664
+
+2021-02-17T13:03:11+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:664
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 664
+
+2021-02-17T13:03:31+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:664
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 664
+
+2021-02-17T13:05:31+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:664
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 664
+
+2021-02-17T13:11:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:672
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 672
+
+2021-02-17T13:20:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:674
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 674
+
+2021-02-17T13:33:09+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:690
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 690
+
+2021-02-17T13:33:20+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:690
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 690
+
+2021-02-17T13:33:29+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:690
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 690
+
+2021-02-17T13:33:36+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:690
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 690
+
+2021-02-17T13:34:20+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:690
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 690
+
+2021-02-17T13:35:26+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:689
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 689
+
+2021-02-17T13:36:31+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:682
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 682
+
+2021-02-17T13:36:52+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:682
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 682
+
+2021-02-17T13:37:45+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:680
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 680
+
+2021-02-17T13:38:38+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:683
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 683
+
+2021-02-17T13:39:00+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:676
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 676
+
+2021-02-17T13:40:24+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:681
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 681
+
+2021-02-17T13:42:32+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:678
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 678
+
+2021-02-17T13:54:55+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:689
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 689
+
+2021-02-17T14:02:47+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:690
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 690
+
+2021-02-17T14:04:47+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:690
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 690
+
+2021-02-17T14:08:12+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:690
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 690
+
+2021-02-17T14:14:23+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:690
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 690
+
+2021-02-17T14:15:34+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:690
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 690
+
+2021-02-17T14:15:54+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:690
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 690
+
+2021-02-17T14:21:58+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:685
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 685
+
+2021-02-17T14:26:46+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:685
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 685
+
+2021-02-17T14:46:38+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:677
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 677
+
+2021-02-17T14:47:19+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:677
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 677
+
+2021-02-17T14:48:21+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:676
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 676
+
+2021-02-17T14:51:24+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:678
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 678
+
+2021-02-17T14:51:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:678
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 678
+
+2021-02-17T14:55:26+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:678
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 678
+
+2021-02-17T15:27:11+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:679
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 679
+
+2021-02-17T15:31:06+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:681
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 681
+
+2021-02-17T15:33:18+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:681
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 681
+
+2021-02-17T15:34:45+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_by_category() in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php:681
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortc in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\views\products-manager\wcfm-view-products-manage.php on line 681
+

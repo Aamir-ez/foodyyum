@@ -1,0 +1,62 @@
+2021-02-22T05:55:34+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 28672 bytes) in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-assets.php on line 68
+
+2021-02-22T09:40:14+00:00 CRITICAL syntax error, unexpected end of file in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 870
+
+2021-02-22T09:42:15+00:00 CRITICAL syntax error, unexpected end of file in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 870
+
+2021-02-22T09:43:42+00:00 CRITICAL syntax error, unexpected end of file in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 884
+
+2021-02-22T09:44:16+00:00 CRITICAL syntax error, unexpected end of file in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 884
+
+2021-02-22T09:44:37+00:00 CRITICAL syntax error, unexpected end of file in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 882
+
+2021-02-22T09:45:18+00:00 CRITICAL syntax error, unexpected end of file in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 872
+
+2021-02-22T09:46:16+00:00 CRITICAL syntax error, unexpected end of file in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 872
+
+2021-02-22T12:37:55+00:00 CRITICAL syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 624
+
+2021-02-22T12:37:57+00:00 CRITICAL syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 624
+
+2021-02-22T12:38:07+00:00 CRITICAL syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 624
+
+2021-02-22T13:03:37+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function EZ_fetch_media(), 2 passed in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 974 and exactly 3 expected in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php:609
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php(974): EZ_fetch_media(NULL, 124)
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): EZ_add_menu_item('')
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_EZ_add_...')
+#5 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 609
+
+2021-02-22T13:04:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function EZ_fetch_media(), 2 passed in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 974 and exactly 3 expected in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php:609
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php(974): EZ_fetch_media(Array, 125)
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): EZ_add_menu_item('')
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_EZ_add_...')
+#5 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 609
+
+2021-02-22T13:04:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function EZ_fetch_media(), 2 passed in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 974 and exactly 3 expected in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php:609
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php(974): EZ_fetch_media('D:\\xampp\\tmp\\ph...', 126)
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): EZ_add_menu_item('')
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_EZ_add_...')
+#5 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 609
+
+2021-02-22T13:10:16+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function EZ_fetch_media(), 2 passed in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 976 and exactly 3 expected in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php:609
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php(976): EZ_fetch_media(Array, 132)
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): EZ_add_menu_item('')
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_EZ_add_...')
+#5 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 609
+

@@ -1,0 +1,110 @@
+2021-03-03T05:26:14+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Database error. in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php:75
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_DBStore->save_action(Object(ActionScheduler_Action))
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(105): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\functions.php(54): ActionScheduler_ActionFactory->recurring('wcfmvm_membersh...', Array, 1614749173, 86400, 'WCFM')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\includes\queue\class-wc-action-queue.php(58): as_schedule_recurring_action(1614749173, 86400, 'wcfmvm_membersh...', Array, in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php on line 75
+
+2021-03-03T05:26:36+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Database error. in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php:75
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_DBStore->save_action(Object(ActionScheduler_Action))
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(105): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\functions.php(54): ActionScheduler_ActionFactory->recurring('wcfmvm_membersh...', Array, 1614749172, 86400, 'WCFM')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\includes\queue\class-wc-action-queue.php(58): as_schedule_recurring_action(1614749172, 86400, 'wcfmvm_membersh...', Array, in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php on line 75
+
+2021-03-03T05:26:37+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Database error. in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php:75
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_DBStore->save_action(Object(ActionScheduler_Action))
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(105): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\functions.php(54): ActionScheduler_ActionFactory->recurring('wcfmvm_membersh...', Array, 1614749196, 86400, 'WCFM')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\includes\queue\class-wc-action-queue.php(58): as_schedule_recurring_action(1614749196, 86400, 'wcfmvm_membersh...', Array, in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php on line 75
+
+2021-03-03T05:26:40+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Database error. in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php:75
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_DBStore->save_action(Object(ActionScheduler_Action))
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(105): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\functions.php(54): ActionScheduler_ActionFactory->recurring('wcfmvm_membersh...', Array, 1614749198, 86400, 'WCFM')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\includes\queue\class-wc-action-queue.php(58): as_schedule_recurring_action(1614749198, 86400, 'wcfmvm_membersh...', Array, in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php on line 75
+
+2021-03-03T05:34:24+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Database error. in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php:75
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_DBStore->save_action(Object(ActionScheduler_Action))
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(105): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\functions.php(54): ActionScheduler_ActionFactory->recurring('wcfmvm_membersh...', Array, 1614749662, 86400, 'WCFM')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\includes\queue\class-wc-action-queue.php(58): as_schedule_recurring_action(1614749662, 86400, 'wcfmvm_membersh...', Array, in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php on line 75
+
+2021-03-03T05:34:45+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Database error. in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php:75
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_DBStore->save_action(Object(ActionScheduler_Action))
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(105): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\functions.php(54): ActionScheduler_ActionFactory->recurring('wcfmvm_membersh...', Array, 1614749662, 86400, 'WCFM')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\includes\queue\class-wc-action-queue.php(58): as_schedule_recurring_action(1614749662, 86400, 'wcfmvm_membersh...', Array, in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php on line 75
+
+2021-03-03T05:34:47+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Database error. in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php:75
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_DBStore->save_action(Object(ActionScheduler_Action))
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(105): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\functions.php(54): ActionScheduler_ActionFactory->recurring('wcfmvm_membersh...', Array, 1614749686, 86400, 'WCFM')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\includes\queue\class-wc-action-queue.php(58): as_schedule_recurring_action(1614749686, 86400, 'wcfmvm_membersh...', Array, in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php on line 75
+
+2021-03-03T05:34:49+00:00 CRITICAL Uncaught RuntimeException: Error saving action: Database error. in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php:75
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(177): ActionScheduler_DBStore->save_action(Object(ActionScheduler_Action))
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(105): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\functions.php(54): ActionScheduler_ActionFactory->recurring('wcfmvm_membersh...', Array, 1614749688, 86400, 'WCFM')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\includes\queue\class-wc-action-queue.php(58): as_schedule_recurring_action(1614749688, 86400, 'wcfmvm_membersh...', Array, in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php on line 75
+
+2021-03-03T13:38:40+00:00 CRITICAL Uncaught Error: Object of class WP_User could not be converted to string in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-food-menu.php:21
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): Foodbakery_Publisher_FoodMenus->foodbakery_publisher_foodmenus_callback('')
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-food-menu.php on line 21
+
+2021-03-03T13:40:23+00:00 CRITICAL Uncaught Error: Object of class WP_User could not be converted to string in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-food-menu.php:21
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): Foodbakery_Publisher_FoodMenus->foodbakery_publisher_foodmenus_callback('')
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-food-menu.php on line 21
+
+2021-03-03T13:43:53+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_User as array in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-food-menu.php:24
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): Foodbakery_Publisher_FoodMenus->foodbakery_publisher_foodmenus_callback('')
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-food-menu.php on line 24
+
+2021-03-03T13:45:43+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_User as array in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-food-menu.php:24
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): Foodbakery_Publisher_FoodMenus->foodbakery_publisher_foodmenus_callback('')
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-food-menu.php on line 24
+
+2021-03-03T13:46:05+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_User as array in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-food-menu.php:24
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): Foodbakery_Publisher_FoodMenus->foodbakery_publisher_foodmenus_callback('')
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-food-menu.php on line 24
+
+2021-03-03T13:46:19+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_User as array in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-food-menu.php:24
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): Foodbakery_Publisher_FoodMenus->foodbakery_publisher_foodmenus_callback('')
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_foodbak...')
+#4 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wp-foodbakery\frontend\templates\dashboards\publisher\publisher-food-menu.php on line 24
+

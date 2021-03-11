@@ -1,0 +1,11 @@
+2021-03-05T04:56:14+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\wcfm\products-manager\wcfm-view-products-manage.php:20
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-template.php(38): include()
+#1 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-library.php(940): WCFM_Template->get_template('products-manage...')
+#2 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\includes\shortcodes\class-wcfm-shortcode-wc-frontend-manager.php(42): WCFM_Library->load_views('wcfm-products-m...')
+#3 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(114): WCFM_Frontend_Manager_Shortcode::output('')
+#4 D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-frontend-manager\core\class-wcfm-shortcode.php(46): WCFM_Shortcode->shortcode_wrapper(Array, '')
+#5 D:\xampp\htdocs\foodyyums.com\wp-includes\shortcodes.php(343): WCF in D:\xampp\htdocs\foodyyums.com\wp-content\themes\foodbakery\wcfm\products-manager\wcfm-view-products-manage.php on line 20
+
+2021-03-05T07:38:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\foodyyums.com\wp-content\plugins\wc-multivendor-marketplace\includes\wirecard\vendor\rmccue\requests\library\Requests\Transport\cURL.php on line 437
+

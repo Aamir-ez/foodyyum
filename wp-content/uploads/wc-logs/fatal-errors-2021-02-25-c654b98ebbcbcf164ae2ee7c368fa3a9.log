@@ -1,0 +1,4 @@
+2021-02-25T10:07:38+00:00 CRITICAL syntax error, unexpected ';' in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 849
+
+2021-02-25T10:09:22+00:00 CRITICAL syntax error, unexpected '0' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 849
+

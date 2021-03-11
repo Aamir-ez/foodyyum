@@ -1,0 +1,18 @@
+2021-02-16T08:01:28+00:00 CRITICAL Uncaught Error: Call to a member function get_template() on null in /var/www/foodyyums/wp-content/plugins/wc-frontend-manager/wc_frontend_manager.php:83
+Stack trace:
+#0 /var/www/foodyyums/wp-includes/class-wp-hook.php(287): menu_builder_page('')
+#1 /var/www/foodyyums/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/foodyyums/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /var/www/foodyyums/wp-admin/admin.php(259): do_action('admin_page_menu...')
+#4 {main}
+  thrown in /var/www/foodyyums/wp-content/plugins/wc-frontend-manager/wc_frontend_manager.php on line 83
+
+2021-02-16T08:01:46+00:00 CRITICAL Uncaught Error: Call to a member function get_template() on null in /var/www/foodyyums/wp-content/plugins/wc-frontend-manager/wc_frontend_manager.php:83
+Stack trace:
+#0 /var/www/foodyyums/wp-includes/class-wp-hook.php(287): menu_builder_page('')
+#1 /var/www/foodyyums/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /var/www/foodyyums/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /var/www/foodyyums/wp-admin/admin.php(259): do_action('admin_page_menu...')
+#4 {main}
+  thrown in /var/www/foodyyums/wp-content/plugins/wc-frontend-manager/wc_frontend_manager.php on line 83
+

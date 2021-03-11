@@ -1,0 +1,86 @@
+2021-02-24T07:20:07+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::wp_get_attachment_image_src() in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php:840
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): EZ_get_categories_with_menu_items('')
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_EZ_get_...')
+#4 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 840
+
+2021-02-24T07:22:34+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::wp_get_attachment_image_src() in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php:840
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): EZ_get_categories_with_menu_items('')
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_EZ_get_...')
+#4 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 840
+
+2021-02-24T08:20:29+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php:844
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): EZ_get_categories_with_menu_items('')
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_EZ_get_...')
+#4 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 844
+
+2021-02-24T08:20:45+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php:844
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): EZ_get_categories_with_menu_items('')
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_EZ_get_...')
+#4 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 844
+
+2021-02-24T08:21:21+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php:844
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): EZ_get_categories_with_menu_items('')
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_EZ_get_...')
+#4 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 844
+
+2021-02-24T08:21:38+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php:844
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): EZ_get_categories_with_menu_items('')
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_EZ_get_...')
+#4 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 844
+
+2021-02-24T11:31:57+00:00 CRITICAL syntax error, unexpected '?' in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 912
+
+2021-02-24T11:32:00+00:00 CRITICAL syntax error, unexpected '?' in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 912
+
+2021-02-24T11:32:02+00:00 CRITICAL syntax error, unexpected '?' in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 912
+
+2021-02-24T11:32:03+00:00 CRITICAL syntax error, unexpected '?' in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 912
+
+2021-02-24T11:32:08+00:00 CRITICAL syntax error, unexpected '?' in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 912
+
+2021-02-24T11:32:08+00:00 CRITICAL syntax error, unexpected '?' in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 912
+
+2021-02-24T11:32:09+00:00 CRITICAL syntax error, unexpected '?' in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 912
+
+2021-02-24T13:47:59+00:00 CRITICAL Uncaught Error: Call to undefined function wp_insert_attachment_metadata() in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php:1196
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): EZ_update_menu_item('')
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_EZ_upda...')
+#4 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 1196
+
+2021-02-24T13:48:17+00:00 CRITICAL Uncaught Error: Call to undefined function wp_insert_attachment_metadata() in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php:1196
+Stack trace:
+#0 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(287): EZ_update_menu_item('')
+#1 D:\xampp\htdocs\foodyyums.com\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 D:\xampp\htdocs\foodyyums.com\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\foodyyums.com\wp-admin\admin-ajax.php(184): do_action('wp_ajax_EZ_upda...')
+#4 {main}
+  thrown in D:\xampp\htdocs\foodyyums.com\wp-content\themes\twentytwentyone\functions.php on line 1196
+

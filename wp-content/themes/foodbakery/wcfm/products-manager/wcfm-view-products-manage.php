@@ -308,7 +308,7 @@
 <?php endif; ?>
             jQuery('form#add-menu-item-form').prepend('<div class="loader"><?php loading(); ?></div>');
             jQuery('html, body').animate({
-            scrollTop: find(".parent_row").closest('.parent_category').offset().top
+            scrollTop: jQuery('.tabs-container-main').offset().top
             }, 90);
             setTimeout(function () {
             jQuery.ajax({
